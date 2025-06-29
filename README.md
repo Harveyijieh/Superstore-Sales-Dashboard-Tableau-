@@ -8,7 +8,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## 🗂️ Table of Contents
+### 🗂️ Table of Contents
 
 - [Project Objectives](#project-objectives)
 - [Business Questions](#business-questions)
@@ -22,7 +22,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Project Objectives
+### Project Objectives
 
 - Build an interactive dashboard that explores Superstore’s performance across multiple dimensions: region, category, customer segments, and time.
 - Demonstrate skills in business analytics, data storytelling, and visualization design using Tableau.
@@ -30,7 +30,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Business Questions
+### Business Questions
 
 - Which regions and states are the most profitable?
 - What product categories contribute most to sales and profit?
@@ -39,27 +39,27 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Dashboard Features
+### Dashboard Features
 
-- 📌 KPI Indicators: Total Sales, Total Profit, Orders, Profit Ratio  
-- 📍 Regional Performance: Sales and Profit by Region & State  
-- 🛍️ Product Analysis: Top-performing Categories and Sub-categories  
-- 📦 Shipping Analysis: Profit by Ship Mode  
-- 👥 Customer Segmentation: Sales by Segment  
-- 🎛️ Filters: Interactive controls for Region, Category, and Date  
-
----
-
-## Key Insights
-
-- 📉 **Tables** sub-category consistently underperforms with low or negative profit.  
-- 🌎 **West region** is a top performer in both sales and profit.  
-- 🛒 **Technology** category, while not the highest in sales, delivers strong profitability.  
-- 🚚 Excessive discounts often lead to reduced profit margins despite higher sales.
+- KPI Indicators: Total Sales, Total Profit, Orders, Profit Ratio  
+- Regional Performance: Sales and Profit by Region & State  
+- Product Analysis: Top-performing Categories and Sub-categories  
+- Shipping Analysis: Profit by Ship Mode  
+- Customer Segmentation: Sales by Segment  
+- Filters: Interactive controls for Region, Category, and Date  
 
 ---
 
-## Dataset Overview
+### Key Insights
+
+- **Tables** sub-category consistently underperforms with low or negative profit.  
+- **West region** is a top performer in both sales and profit.  
+- **Technology** category, while not the highest in sales, delivers strong profitability.  
+- Excessive discounts often lead to reduced profit margins despite higher sales.
+
+---
+
+### Dataset Overview
 
 - **Source:** Tableau Sample Superstore Dataset  
 - **Size:** ~10,000 records  
@@ -68,7 +68,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Tools & Skills Used
+### Tools & Skills Used
 
 | Tool         | Purpose                            |
 |--------------|------------------------------------|
@@ -79,7 +79,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Dashboard Preview
+### Dashboard Preview
 
 ![Superstore Dashboard Preview](images/superstore_dashboard_preview.png)
 
@@ -87,7 +87,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Next Steps
+### Next Steps
 
 - Add forecast models for monthly sales using Tableau forecasting tools  
 - Segment customers using RFM (Recency, Frequency, Monetary) analysis  
@@ -95,7 +95,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ---
 
-## Connect with Me
+### Connect with Me
 
 **Harvey Ijieh**  
 _Data Analyst | Business Intelligence | Tableau | SQL_  
