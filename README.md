@@ -10,8 +10,6 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ### 🗂️ Table of Contents
 - [Project Objectives](#project-objectives)
-- [Project Objectives](#project-objectives)
-- 
 - [Business Questions](#business-questions)
 - [Dashboard Features](#dashboard-features)
 - [Key Insights](#key-insights)
@@ -21,15 +19,11 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 - [Next Steps](#next-steps)
 - [Connect with Me](#connect-with-me)
 
----
-
 ### Project Objectives
 
 - Build an interactive dashboard that explores Superstore’s performance across multiple dimensions: region, category, customer segments, and time.
 - Demonstrate skills in business analytics, data storytelling, and visualization design using Tableau.
 - Help stakeholders understand key drivers of profitability, identify problem areas, and optimize decisions.
-
----
 
 ### Business Questions
 
@@ -37,8 +31,6 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 - What product categories contribute most to sales and profit?
 - Which ship mode drives the highest revenue?
 - Which customer segments drive the highest revenue?
-
----
 
 ### Dashboard Features
 
@@ -58,16 +50,12 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 - **Technology** category, while not the highest in sales, delivers strong profitability.  
 - Excessive discounts often lead to reduced profit margins despite higher sales.
 
----
-
 ### Dataset Overview
 
 - **Source:** Tableau Sample Superstore Dataset  
 - **Size:** ~10,000 records  
 - **Fields:** Order ID, Product, Category, Region, Sales, Profit, Customer Segment, Ship Mode, etc.  
 - **Time Range:** 2015 – 2018  
-
----
 
 ### Tools & Skills Used
 
@@ -78,23 +66,17 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 | GitHub       | Version Control & Documentation    |
 | Analytical Thinking | Business Insight Generation |
 
----
-
 ### Dashboard Preview
 
 ![Superstore Dashboard Preview](images/superstore_dashboard_preview.png)
 
 🔗 **Explore the interactive version**: [View on Tableau Public](https://public.tableau.com/your_dashboard_link)
 
----
-
 ### Next Steps
 
 - Add forecast models for monthly sales using Tableau forecasting tools  
 - Segment customers using RFM (Recency, Frequency, Monetary) analysis  
 - Build similar dashboards using Power BI and SQL for comparison  
-
----
 
 ### Connect with Me
 
@@ -103,11 +85,7 @@ _Data Analyst | Business Intelligence | Tableau | SQL_
 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 📧 [Email Me](mailto:your-email@example.com)
 
----
-
 ⭐️ If you found this project helpful or inspiring, feel free to give it a star and share!
-
-
 
 
 ---
