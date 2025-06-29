@@ -9,8 +9,9 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 ---
 
 ### 🗂️ Table of Contents
-
 - [Project Objectives](#project-objectives)
+- [Project Objectives](#project-objectives)
+- 
 - [Business Questions](#business-questions)
 - [Dashboard Features](#dashboard-features)
 - [Key Insights](#key-insights)
