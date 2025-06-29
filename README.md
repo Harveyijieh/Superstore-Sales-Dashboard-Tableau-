@@ -46,7 +46,6 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 - 🛍️ Product Analysis: Top-performing Categories and Sub-categories  
 - 📦 Shipping Analysis: Profit by Ship Mode  
 - 👥 Customer Segmentation: Sales by Segment  
-- 📅 Sales Trends: Monthly trend lines for sales and profit  
 - 🎛️ Filters: Interactive controls for Region, Category, and Date  
 
 ---
