@@ -34,7 +34,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 - Which regions and states are the most profitable?
 - What product categories contribute most to sales and profit?
-- How do discount and shipping mode impact profitability?
+- Which ship mode drives the highest revenue?
 - Which customer segments drive the highest revenue?
 
 ---
