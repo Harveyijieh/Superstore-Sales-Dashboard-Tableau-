@@ -68,9 +68,8 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ### Next Steps
 
-- Add forecast models for monthly sales using Tableau forecasting tools  
-- Segment customers using RFM (Recency, Frequency, Monetary) analysis  
-- Build similar dashboards using Power BI and SQL for comparison  
+- Add forecast models for monthly sales using Tableau forecasting tools   
+- Build similar dashboards using Power BI for comparison  
 
 ### Connect with Me
 
