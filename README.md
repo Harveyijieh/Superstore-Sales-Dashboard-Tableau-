@@ -4,7 +4,7 @@
 
 Welcome to my data visualization project using the popular **Superstore dataset**. This project showcases how Tableau can be used to extract meaningful business insights and drive better retail decisions through compelling visuals and analytics.
 
-🔗 **Live Dashboard on Tableau Public:** [View Dashboard](https://public.tableau.com/your_dashboard_link)
+🔗 **Live Dashboard on Tableau Public:** [View Dashboard](https://public.tableau.com/app/profile/harvey.ijieh/viz/SuperstoreDashboard_17515542071670/ExecutiveDashboard)
 
 ---
 
@@ -64,10 +64,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 | GitHub       | Version Control & Documentation    |
 
 ### Dashboard Preview
-
-![Superstore Dashboard Preview](images/superstore_dashboard_preview.png)
-
-🔗 **Explore the interactive version**: [View on Tableau Public](https://public.tableau.com/your_dashboard_link)
+🔗 **Explore the interactive version**: [View on Tableau Public](https://public.tableau.com/app/profile/harvey.ijieh/viz/SuperstoreDashboard_17515542071670/ExecutiveDashboard)
 
 ### Next Steps
 
@@ -83,27 +80,4 @@ _Data Analyst | Business Intelligence | Tableau | SQL_
 📧 [Email Me](harveyijieh@gmail.com)
 
 ⭐️ If you found this project helpful or inspiring, feel free to give it a star and share!
-
-
----
-# ANALYST AT WORK
-### Tools
-- Excel - for exploring the dataset
-
-- Postgres - for querying and data analysis [Download here](https://www.postgresql.org/)
-
-- Tableau - for visualisation and interactive dashboards [Download here](https://www.tableau.com/products/public/download)
-
-- GitHub - for version control and project sharing [Sign Up](https://github.com/)
-
-### Visualisation in Tableau
-For the data visualization aspect of this project, I utilized Tableau. Tableau was used to create interactive and insightful visualizations that helped to better understand and analyze the HR data. Below is the dashbaord created using Tableau:
-- [View Dashboard](https://public.tableau.com/app/profile/harvey.ijieh/viz/HRAnalyticsUpload/HRDASHBOARD)
-### Conclusions
-
-This project helps analyze HR data, identify attrition factors, and visualize workforce trends using PostgreSQL and Tableau.
-
-💻
-
---- 
 
