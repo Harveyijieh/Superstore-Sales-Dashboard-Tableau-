@@ -43,10 +43,9 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 
 ### Key Insights
 
-- **Tables** sub-category consistently underperforms with low or negative profit.  
-- **West region** is a top performer in both sales and profit.  
-- **Technology** category, while not the highest in sales, delivers strong profitability.  
-- Excessive discounts often lead to reduced profit margins despite higher sales.
+- **Tables** Standard shipping mode was the highest with 59%
+- **West region** is a top performer in revenue generation.
+- **Technology** category, is the top earner. 
 
 ### Dataset Overview
 
@@ -66,9 +65,7 @@ Welcome to my data visualization project using the popular **Superstore dataset*
 ### Dashboard Preview
 🔗 **Explore the interactive version**: [View on Tableau Public](https://public.tableau.com/app/profile/harvey.ijieh/viz/SuperstoreDashboard_17515542071670/ExecutiveDashboard)
 
-### Next Steps
-
-- Add forecast models for monthly sales using Tableau forecasting tools   
+### Next Steps  
 - Build similar dashboards using Power BI for comparison  
 
 ### Connect with Me
